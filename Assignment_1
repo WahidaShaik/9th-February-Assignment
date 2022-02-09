@@ -1,0 +1,18 @@
+a=int(input("Enter a:"))
+b=int(input("Enter b:"))
+if a>b:
+    print("a is greater than b")
+else:
+    print("b is greater than a")
+    
+
+Output:
+Enter a:
+50
+Enter b:
+25
+a is greater than b
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
