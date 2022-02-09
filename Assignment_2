@@ -1,0 +1,24 @@
+n=int(input("Enter n:"))
+if (n%2==0):
+    print("even")
+else:
+    print("odd")
+
+Output-1:
+Enter n:
+25
+odd
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+
+
+Output-2:
+Enter n:
+20
+even
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
